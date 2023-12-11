@@ -1,0 +1,14 @@
+{
+  "movies": [
+    {
+      "id": 1702147244537,
+      "title": "1",
+      "description": "4",
+      "director": "2",
+      "actors": "https://i.pinimg.com/236x/4f/8d/e1/4f8de1ec6a7a0b90350b3796aaa6762d.jpg",
+      "year": "1999",
+      "genres": "Хоррор",
+      "posterUrl": "https://i.pinimg.com/236x/4f/8d/e1/4f8de1ec6a7a0b90350b3796aaa6762d.jpg"
+    }
+  ]
+}
